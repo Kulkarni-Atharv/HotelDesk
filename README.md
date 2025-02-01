@@ -6,15 +6,15 @@ Welcome to HotelDesk, the all-in-one hotel management system designed to make ho
 
 Managing a hotel is no easy task. From guest check-ins to staff management, there's a lot to handle. HotelDesk simplifies hotel operations by automating:
 
-Room allocation and availability tracking
+- Room allocation and availability tracking
 
-Guest check-ins and check-outs
+- Guest check-ins and check-outs
 
-Employee and staff management
+- Employee and staff management
 
-Payment processing and receipt generation
+- Payment processing and receipt generation
 
-Report generation for better decision-making
+- Report generation for better decision-making
 
 With an intuitive interface built using Java Swing, HotelDesk makes hotel management a breeze!
 
@@ -22,33 +22,35 @@ With an intuitive interface built using Java Swing, HotelDesk makes hotel manage
 
 🏨 Admin Dashboard
 
-✔️ Add and update room details 📋
-✔️ Manage employees and their roles 👨‍💼
-✔️ Track drivers and auxiliary staff 🚗
-✔️ Monitor room availability 📊
-✔️ Generate reports for better management 📈
+✔️ Add and update room details 📋 <br>
+✔️ Manage employees and their roles 👨‍💼 <br>
+✔️ Track drivers and auxiliary staff 🚗 <br>
+✔️ Monitor room availability 📊 <br>
+✔️ Generate reports for better management 📈 <br>
 
 🛎️ Receptionist Dashboard
 
-✔️ Register new customers and assign rooms 📝
-✔️ Record check-ins and check-outs 📅
-✔️ View and update room availability 🔄
-✔️ Access customer and employee records 🔍
-✔️ Handle payments and generate receipts 💳
+✔️ Register new customers and assign rooms 📝 <br>
+✔️ Record check-ins and check-outs 📅 <br>
+✔️ View and update room availability 🔄 <br>
+✔️ Access customer and employee records 🔍 <br>
+✔️ Handle payments and generate receipts 💳 <br>
 
 ❌ Problems with Manual Systems
 
-Traditional hotel management involves paper records and spreadsheets. This leads to:
-❌ Time-consuming operations ⏳
-❌ Data entry errors ❌
-❌ High resource consumption (paper, storage, etc.) 📄
-❌ Limited access to information 🔐
+Traditional hotel management involves paper records and spreadsheets. This leads to:<br>
+❌ Time-consuming operations ⏳<br>
+❌ Data entry errors ❌<br>
+❌ High resource consumption (paper, storage, etc.) 📄<br>
+❌ Limited access to information 🔐<br>
 
-💡 Solution? HotelDesk! A fast, reliable, and paperless way to manage your hotel.
+💡 **Solution? HotelDesk!** A fast, reliable, and paperless way to manage your hotel.
 
 ⚙️ Tech Stack
 
-🖥️ Frontend: Java Swing (for an interactive user interface)🛢️ Backend: MySQL 5.5 (for secure and efficient data storage)🛠️ Development Environment: Java SE Development Kit (JDK)
+🖥️ Frontend: Java Swing (for an interactive user interface)<br>
+🛢️ Backend: MySQL 5.5 (for secure and efficient data storage)<br>
+🛠️ Development Environment: Java SE Development Kit (JDK)<br>
 
 💻 System Requirements
 
