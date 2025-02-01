@@ -10,7 +10,7 @@ public class conn {
             Class.forName("com.mysql.cj.jdbc.Driver");  
 
             // Establish the connection
-            c = DriverManager.getConnection("jdbc:mysql://localhost:3306/hotelmanagementsystem", "root", "Atharv@123"); 
+            c = DriverManager.getConnection("jdbc:mysql://localhost:3306/hotelmanagementsystem", "USERNAME", "PASSWORD"); 
             
             // Create a statement
             s = c.createStatement();  
